@@ -1,0 +1,14 @@
+{
+  "nome": "New York Barbecue",
+  "taxaFrete": 12,
+  "endereco": {
+    "cep": "38400-999",
+    "logradouro": "Rua Afonso Pena",
+    "numero": "1000",
+    "complemento": null,
+    "bairro": "Centro",
+    "cidade": {
+      "id": 1
+    }
+  }
+}

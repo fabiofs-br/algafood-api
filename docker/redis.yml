@@ -1,0 +1,10 @@
+version: '3.1'
+
+services:
+
+  algafood-redis:
+    image: redis
+    command: redis-server --requirepass root
+    restart: always
+    ports:
+      - 6379:6379
